@@ -1,6 +1,8 @@
-.session
-company-statistics-cache.el
-custom-set-variables.el
-elpa/
-emms/
-transient/
+/.session
+/company-statistics-cache.el
+/custom-set-variables.el
+/elpa/
+/emms/
+/transient/
+/places
+/amx-items
