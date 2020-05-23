@@ -417,7 +417,11 @@ PACKAGE is a symbol, VERSION is a vector as produced by `version-to-list', and
   (require-package 'hemisu-theme)
   (require-package 'badger-theme)
   (require-package 'distinguished-theme)
-  (require-package 'challenger-deep-theme))
+  (require-package 'challenger-deep-theme)
+  ;; customerized
+  (require-package 'use-package)
+  (require-package 'nyan-mode)
+  (require-package 'flycheck))
 ;; }}
 
 ;; kill buffer without my confirmation

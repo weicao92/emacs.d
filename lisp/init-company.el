@@ -10,6 +10,9 @@
           company-complete-selection
           company-complete-number)))
 
+;key bindings
+(global-set-key (kbd "M-/") 'company-complete)
+
 (eval-after-load 'company
   '(progn
      ;; @see https://github.com/company-mode/company-mode/issues/348
